@@ -1,0 +1,58 @@
+.container{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background: lightgray;
+    padding: 10dp;
+}
+
+.invoice-bill{
+    color: black;
+    padding: 10px;
+    margin: 10px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+.invoice-bill-final{
+    width: fit-content;
+    margin: 5px;
+}
+
+
+.col
+{
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+}
+.singleselect{
+    width: 200px;
+}
+.invoice-input{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+}
+
+.invoice{
+    background: lightgreen;
+    padding: 10px;
+}
+
+.more-space{
+    width: 250px;
+
+}
+
+.mr{
+    margin-right: 10px;
+
+}
+
+label{
+    font-size: 20px;
+}
